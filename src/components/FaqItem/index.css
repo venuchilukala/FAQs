@@ -1,0 +1,33 @@
+li {
+    list-style: none;
+    border: 2px solid #d7dae6;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  
+  .question {
+    font-size: 18px;
+    color: #52606d;
+    font-weight: 500;
+  }
+  
+  .answer {
+    color: #9aa5b1;
+  }
+  
+  .que-img {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .que-img img {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .btn {
+    background-color: transparent;
+    border: none;
+  }
+  
